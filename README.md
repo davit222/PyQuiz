@@ -12,7 +12,7 @@ The following modules are used in this project: **requests** , **sqllite3** , **
 ## Attention
 
 * The API does not support our National Currency **Lari(GEL)**.
-* Please Input Currency Values **By Abbreviation (Ex. USD, HKD, EUR, CHF and etc).
+* Please Input Currency Values **By Abbreviation (Ex. USD, HKD, EUR, CHF and etc)**.
 
 © Davit Terterashvili
 
